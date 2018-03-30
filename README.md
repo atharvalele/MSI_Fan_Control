@@ -9,4 +9,6 @@
 
 ### **Included**
 - My custom fan profile for GL62M 7RDX
-- Dragon Centers curves for reference (in the dragon_center_profile folder)
+- Dragon Centers curves for reference (in the dragon_center_profiles folder) \
+![alt-text](dragon_center_profiles/CPU_Profile.png) "CPU Profile" \
+![alt-text](dragon_center_profiles/GPU_Profile.png) "GPU Profile"
