@@ -1,0 +1,12 @@
+# MSI Fan Control
+
+## Simple python script to write EC registers to control fan speed on MSI GL62M 7RDX (may or may not work on other models)
+
+### **Requirements**
+- Python 3
+- root access
+- Fan profile created (I will add a guide for this later on)
+
+### **Included**
+- My custom fan profile for GL62M 7RDX
+- Dragon Centers curves for reference (in the dragon_center_profile folder)
